@@ -1,8 +1,8 @@
 {
-  "version_code": 11,
-  "version_name": "0.2.2",
+  "version_code": 12,
+  "version_name": "0.2.3",
   "min_version_code": 8,
-  "apk_url": "https://github.com/Sankha07x/qualitytime-releases/releases/download/v0.2.2/app-arm64-v8a-release.apk",
+  "apk_url": "https://github.com/Sankha07x/qualitytime-releases/releases/download/v0.2.3/app-arm64-v8a-release.apk",
   "size_mb": 33,
-  "notes": ["Edit your profile photo, name and ID", "Contact pages with call history"]
+  "notes": ["Edit your profile photo, name and ID", "Contact pages with call history", "Update installer fix"]
 }
