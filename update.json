@@ -1,0 +1,8 @@
+{
+  "version_code": 10,
+  "version_name": "0.2.1",
+  "min_version_code": 8,
+  "apk_url": "https://github.com/Sankha07x/qualitytime-releases/releases/download/v0.2.1/app-arm64-v8a-release.apk",
+  "size_mb": 32,
+  "notes": ["Faster call connection", "New profile page"]
+}
