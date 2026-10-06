@@ -2,7 +2,7 @@
   "version_code": 15,
   "version_name": "0.2.6",
   "min_version_code": 8,
-  "apk_url": "https://github.com/Sankha07x/qualitytime-releases/releases/download/v0.2.6/app-arm64-v8a-release.apk",
+  "apk_url": "https://github.com/Sankha07x/qualitytime-releases/releases/download/v0.2.6/QualityTime.apk",
   "size_mb": 34,
   "notes": ["New Incoming Notification", "Picture in Picture Mode", "Increased Sooting Experience"]
 }
