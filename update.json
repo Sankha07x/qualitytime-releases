@@ -1,8 +1,8 @@
 {
-  "version_code": 16,
-  "version_name": "0.2.6",
+  "version_code": 17,
+  "version_name": "0.4.0",
   "min_version_code": 8,
-  "apk_url": "https://github.com/Sankha07x/qualitytime-releases/releases/download/v0.3.0/app-arm64-v8a-release.apk",
-  "size_mb": 34,
-  "notes": ["All Bugs Fixed", "Offline Mode", "Increased Soothing Experience"]
+  "apk_url": "https://github.com/Sankha07x/qualitytime-releases/releases/download/v0.4.0/QualityTime.apk",
+  "size_mb": 35,
+  "notes": ["App Customisation", "Friends Accept/Removal", "Enhanced Display Widgets"]
 }
