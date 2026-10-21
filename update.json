@@ -1,8 +1,8 @@
 {
-  "version_code": 26,
-  "version_name": "0.8.8",
+  "version_code": 27,
+  "version_name": "0.9.0",
   "min_version_code": 8,
-  "apk_url": "https://github.com/Sankha07x/qualitytime-releases/releases/download/v0.8.8/app-arm64-v8a-release.apk",
-  "size_mb": 51,
-  "notes": ["Bug fixes", "Extreme Quality 1080p 60 fps", "Animations OnScreen", "Notifications of Calls and Texts"]
+  "apk_url": "https://github.com/Sankha07x/qualitytime-releases/releases/download/v0.9.0/app-arm64-v8a-release.apk",
+  "size_mb": 52,
+  "notes": ["Updated Settings", "Power Featured Chats", "New Profile Screen", "Notifications of Calls and Texts"]
 }
