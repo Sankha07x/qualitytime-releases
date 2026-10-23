@@ -1,8 +1,8 @@
 {
-  "version_code": 29,
-  "version_name": "0.9.5",
+  "version_code": 30,
+  "version_name": "0.10.0",
   "min_version_code": 8,
-  "apk_url": "https://github.com/Sankha07x/qualitytime-releases/releases/download/v0.9.5/app-arm64-v8a-release.apk",
+  "apk_url": "https://github.com/Sankha07x/qualitytime-releases/releases/download/v0.10.0/app-arm64-v8a-release.apk",
   "size_mb": 53,
-  "notes": ["Group Chat System", "Power Featured Chats", "New Profile Screen", "Group Call Bug Fixes"]
+  "notes": ["Group Chat System Enhanced", "Power Featured Chats", "In Notification Reply"]
 }
